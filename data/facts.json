@@ -1,0 +1,25 @@
+{
+    "full_name": "Milton Fabian Muñoz",
+    "name": "Milton",
+    "current_role": "Software Engineer",
+    "location": "Colombia",
+    "email": "livemilton@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/fabian-r-a24083245/",
+    "specialties": [
+      "Software Engineer",
+      "AI Engineer",
+      "IA Speaker",
+      "Full Stack Developer",
+      "Frontend Developer",
+      "Backend Developer",
+      "Cloud Architect"
+    ],
+    "years_experience": 4,
+    "education": [
+      {
+        "degree": "Systems Engineering",
+        "institution": "Universidad CUN",
+        "year": "2027"
+      }
+    ]
+  }
