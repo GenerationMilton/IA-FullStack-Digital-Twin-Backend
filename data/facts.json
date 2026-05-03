@@ -1,4 +1,5 @@
 {
+    "short_intro": "Software and AI engineer in Colombia; focused on secure backend systems in finance and on using AI well in real delivery—not buzzwords.",
     "full_name": "Milton Fabian Muñoz",
     "name": "Milton",
     "current_role": "Software Engineer",
@@ -6,13 +7,9 @@
     "email": "livemilton@gmail.com",
     "linkedin": "https://www.linkedin.com/in/fabian-r-a24083245/",
     "specialties": [
-      "Software Engineer",
-      "AI Engineer",
-      "IA Speaker",
-      "Full Stack Developer",
-      "Frontend Developer",
-      "Backend Developer",
-      "Cloud Architect"
+      "Software / backend engineering",
+      "AI engineering and tooling",
+      "Public speaking on AI"
     ],
     "years_experience": 4,
     "education": [
