@@ -59,3 +59,7 @@ coverage.xml
 
 # vercel
 .vercel
+
+# exceptions
+lambda-deployment.zip
+lambda-package/
